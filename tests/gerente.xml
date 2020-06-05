@@ -1,0 +1,19 @@
+<dataset>
+  <table name="gerente">
+    <column>idGerente</column>
+    <column>nomeGerente</column>
+    <column>enderecoGerente</column>
+    <column>cpfGerente</column>
+   
+    <row>
+      <value>1</value>
+      <value>Bruno Krugmann Araujo</value>
+      <value>Av mario correa 1031</value>
+      <value>034.720.041-93</value>
+    
+    </row>
+   
+  </table>
+
+
+</dataset>

@@ -1,0 +1,20 @@
+<dataset>
+  <table name="produtos">
+    <column>idProduto</column>
+    <column>nomeProduto</column>
+    <column>preçoProduto</column>
+    <column>refenciaProduto</column>
+    <row>
+      <value>4</value>
+      <value>Formatação s backup</value>
+      <value>100</value>
+      <value>12</value>
+    
+    </row>
+   
+  </table>
+
+
+</dataset>
+
+

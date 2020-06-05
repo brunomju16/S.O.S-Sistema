@@ -1,0 +1,20 @@
+<dataset>
+  <table name="funcionarios">
+    <column>idFuncionario</column>
+    <column>nomeFuncionario</column>
+    <column>cpfFuncionario</column>
+    <column>telefoneFuncionario</column>
+    <column>enderecoFuncionario</column>
+    <row>
+      <value>1</value>
+      <value>Bruno Krugmann Araujo</value>
+      <value>034.720.041-93</value>
+      <value>34543258</value>
+       <value>Av Mario Correa 1031</value>
+    </row>
+   
+  </table>
+
+
+</dataset>
+

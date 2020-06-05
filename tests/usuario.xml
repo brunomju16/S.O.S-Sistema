@@ -1,0 +1,20 @@
+<dataset>
+  <table name="usuarios">
+    <column>idUser</column>
+    <column>loginUser</column>
+    <column>senhaUser</column>
+    <column>cargoUser</column>
+    <row>
+      <value>1</value>
+      <value>bruno</value>
+      <value>123</value>
+      <value>Gerente</value>
+    
+    </row>
+   
+  </table>
+
+
+</dataset>
+
+

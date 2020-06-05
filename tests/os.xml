@@ -1,0 +1,25 @@
+<dataset>
+  <table name="os">
+    <column>idCliente</column>
+    <column>idFuncionario</column>
+    <column>equipamento</column>
+    <column>defeito</column>
+    <column>observacao</column>
+    <column>status</column>
+    <column>valor</column>
+    <column>dataOS</column>
+    <row>
+      <value>1</value>
+      <value>1</value>
+      <value>Iphone X</value>
+      <value>Tela quebrada</value>
+      <value>Trocar a Tela</value>
+      <value>Em aberto</value>
+      <value>800</value>
+      <value>2019-08-22</value>
+    </row>
+   
+  </table>
+
+
+</dataset>

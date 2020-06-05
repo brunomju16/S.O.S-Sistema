@@ -1,0 +1,22 @@
+<dataset>
+  <table name="clientes">
+    <column>idCliente</column>
+    <column>nomeCliente</column>
+    <column>telefoneCliente</column>
+    <column>emailCliente</column>
+    <row>
+      <value>1</value>
+      <value>Bruno Krugmann Araujo</value>
+      <value>34543258</value>
+      <value>brunomju16@gmail.com</value>
+    </row>
+    <row>
+      <value>2</value>
+      <value>Rafael</value>
+      <value>34546767</value>
+      <value>rafaelkrugmann@gmail.comm</value>
+    </row>
+  </table>
+
+
+</dataset>
